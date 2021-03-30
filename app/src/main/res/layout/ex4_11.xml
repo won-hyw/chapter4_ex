@@ -10,11 +10,13 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="30dp"
         android:text="@string/text_str"/>
+
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="30dp"
         android:hint="@string/edit_str"/>
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
